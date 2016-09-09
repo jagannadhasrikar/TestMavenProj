@@ -54,6 +54,7 @@ public class Client {
 		
 		p.perform();
 		
+		System.out.println("I am gawwd");
 	
 	
 	}
